@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 project_name
 ==============================
 
@@ -55,3 +56,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# mlops
+wafer fault prediction
+>>>>>>> 029d2cb31d456fd0d37cbfee4e2b5b14d1eb710d
